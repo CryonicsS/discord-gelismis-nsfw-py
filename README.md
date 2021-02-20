@@ -1,2 +1,2 @@
 # gelismis-nsfw-
-Eskiden paylastıgımın daha gelismisi.
+Discord tarafından onaylanan nswf botu.
