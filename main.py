@@ -9,7 +9,7 @@ import datetime
 
 bot_prefix = '.h '
 
-TOKEN = "Nzg5NTM3NDMxNDkzNjczMDAx.X9zgCA.mFqP6u1fqEBAZHmTlOQs5d8snwI"
+TOKEN = "TOKEN"
 
 
 intents=intents=discord.Intents.all()
