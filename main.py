@@ -3,7 +3,6 @@ import random
 import asyncio
 from discord.ext import commands
 from discord import User
-from keep_alive import keep_alive
 from discord.ext.commands import Bot, guild_only
 import datetime
 
@@ -97,9 +96,6 @@ async def sendpussy(ctx):
         await ctx.send("The **nsfw** mode is **turned** off on this channel. To use this command, you need to turn on nsfw mode in settings.")
     
 
-
-
-keep_alive()
 
 
 client.run(TOKEN)
